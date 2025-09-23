@@ -1,1 +1,8 @@
-array('1', [1, 2, 3, 4, 5])
+# python code
+import (array)
+
+a=array(
+    'h', # opcode for unsigned short,
+    26 # first
+)
+
