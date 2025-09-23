@@ -1,8 +1,22 @@
 # python code
-import (array)
 
-a=array(
+hello ="world"
+
+this_number = 42
+
+print(this_number+5)
+
+import array as arr
+
+print (5)
+
+a = arr.array(
     'h', # opcode for unsigned short,
-    26 # first
+ [26] # ist
 )
 
+b = arr.array('l', [1, 2, 3, 4, 5])
+
+print(b.pop())
+
+print("hello world")
