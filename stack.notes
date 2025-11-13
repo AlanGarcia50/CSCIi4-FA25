@@ -1,0 +1,8 @@
+First I started with a list that is called stack, stack[]
+Then I put 3 numbers in order,1,2,3. I made in order so 3 can end up on top.
+Then I put print, and the "print" prints the whole stack. An example is, ['1','2','3'].
+The stack.pop() takes off and returns the '1'. The 3 was added last, so it's basically removed and saved.
+Top Element = [-1] basically means the last thing added in the list, since the top of stack is always the last added.
+Print ("size", len(stack)) can count how many of the the numbers are left.
+I pushed three items, and I had popped '3', ad I peeked the new '2', then the print(print"size", len(stack)) counts how many numbers are still in the stack.
+I used w3 schools for references. 
