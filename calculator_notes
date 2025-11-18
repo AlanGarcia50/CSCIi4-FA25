@@ -1,0 +1,8 @@
+In the code that I have made, I made a simple calculator.
+The function I used is called evaluate_expression(x,y,o) .
+The evaluate_expression took two numbers and an "o" which is an operator.
+Then the exaluate_expression can check whether the "o" is plus, subraction, division, and multiplication.
+Every time I madea function, I ran it and it gave me the correct answers.
+Example: x=5 y=5 o="+" then it would give me the answer, which is "10".
+Each time I tested it, it would give me the answer in the terminal.
+I used w3 schools for references.
